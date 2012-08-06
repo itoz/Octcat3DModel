@@ -2,7 +2,7 @@
 
 
 
-[![DEMO](http://www.romatica.com/dev/samples/alternativa3d/octcat2/index.html)](http://blog.romatica.com/wp-content/uploads/2012/08/thumb_octcat.png)
+[![DEMO](http://www.romatica.com/dev/samples/alternativa3d/octcat2/index.html)](/readmeImages/thumb_octcat.png)
 
 
 #### Use Library
