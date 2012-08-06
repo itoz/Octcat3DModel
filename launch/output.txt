@@ -1,0 +1,5 @@
+[Info] Listening to port 7935.
+Using Flex SDK 4.5 Debugger Adapter.
+[Info] Connection as server to player via 7935 established.
+[Loading] Loaded: ::Users:itoz:Dropbox:Develop:workspaces:private:alternativaSample:OctcatColladaModel:bin:OctcatAlternativa3D.swf
+[Loading] Unloaded: ::Users:itoz:Dropbox:Develop:workspaces:private:alternativaSample:OctcatColladaModel:bin:OctcatAlternativa3D.swf

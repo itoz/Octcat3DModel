@@ -1,0 +1,3 @@
+[submodule "submodules/alternativa3d"]
+	path = submodules/alternativa3d
+	url = git://github.com/AlternativaPlatform/Alternativa3D.git
