@@ -1,9 +1,11 @@
-### "Octcat" Collada Model (Blender2.63a)
+### "Octcat" 3D Model  (Collada Blender2.63a)
 
 
 
-![DEMO](https://github.com/itoz/Octcat3DModel/blob/master/readmeImages/thumb_octcat.png)
+<a href="http://www.romatica.com/dev/samples/alternativa3d/octcat2/index.html" target="_blank">
+<img src="http://blog.romatica.com/wp-content/uploads/2012/08/thumb_octcat.png"></a>
 
+<a href="http://www.romatica.com/dev/samples/alternativa3d/octcat2/index.html" target="_blank">[SWF DEMO]</a>
 
 #### Use Library
 
