@@ -3,7 +3,7 @@
 
 
 <a href="http://www.romatica.com/dev/samples/alternativa3d/octcat2/index.html" target="_blank">
-<img src="https://dl.dropboxusercontent.com/u/958512/_blog/github/octcat/thumb_octcat.png"></a>
+<img src="https://www.dropbox.com/s/uwoa0wa423n5jmo/thumb_octcat.png"></a>
 
 <a href="http://www.romatica.com/dev/samples/alternativa3d/octcat2/index.html" target="_blank">[SWF DEMO]</a>
 
