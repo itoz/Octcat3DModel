@@ -2,8 +2,9 @@
 
 
 
-<a href="http://www.romatica.com/dev/samples/alternativa3d/octcat2/index.html" target="_blank">
-<img src="https://dl.dropboxusercontent.com/s/uwoa0wa423n5jmo/thumb_octcat.png"></a>
+
+
+<img src="https://user-images.githubusercontent.com/319071/175209681-70063353-7612-48ea-b882-fb71856ff46a.png">
 
 <a href="http://www.romatica.com/dev/samples/alternativa3d/octcat2/index.html" target="_blank">[SWF DEMO]</a>
 
